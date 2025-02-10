@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/2Y7HDKb8/github-Photoroom.png" alt="github-Photoroom" border="0">
+<br>
 <h1 align="center">Hi there, I'm Alireza 👋</h1>
 
 <p align="center">
@@ -26,6 +28,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=peexforge&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peexforge&theme=radical" height="150" />
 </p>
+
+---
+
+### 🚀 Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peexforge&layout=compact&theme=dark)  
 
 ---
 
