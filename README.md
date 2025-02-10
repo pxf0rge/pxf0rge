@@ -35,9 +35,13 @@
 
 ---
 
-### 📫 **Get in Touch**
-📩 Email: pxforge@proton.me
-🔗 LinkedIn: [Alireza Hasanzadeh](https://www.linkedin.com/in/alireza-hasanzadeh-496493350)
+## 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alireza-hasanzadeh-496493350)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/peexforge)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-blue?style=flat-square&logo=telegram)](https://t.me/pxforge)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/peexforge)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:pxforge@proton.me)
+
 
 ---
 
