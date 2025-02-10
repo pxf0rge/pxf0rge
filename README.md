@@ -28,14 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peexforge&theme=radical" height="150" />
 </p>
 
-<p align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=peexforge&color=blue&style=flat)
-  ![GitHub followers](https://img.shields.io/github/followers/peexforge?style=flat-square)
-  ![GitHub stars](https://img.shields.io/github/stars/peexforge?style=flat-square)
-  
-</p>
-
 ---
 
 ### 🚀 Most Used Languages  
@@ -52,6 +44,13 @@
 
 ---
 
-### 📊 **Profile Visitors**
-![Profile Views](https://komarev.com/ghpvc/?username=peexforge&label=Profile%20Views&color=blue&style=flat)
+### 📊 **Account info**
+
+<p align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=peexforge&color=blue&style=flat)
+  ![GitHub followers](https://img.shields.io/github/followers/peexforge?style=flat-square)
+  ![GitHub stars](https://img.shields.io/github/stars/peexforge?style=flat-square)
+  
+</p>
 
