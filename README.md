@@ -32,3 +32,9 @@
 ### 📫 **Get in Touch**
 📩 Email: pxforge@proton.me
 🔗 LinkedIn: [Alireza Hasanzadeh](https://www.linkedin.com/in/alireza-hasanzadeh-496493350)
+
+---
+
+### 📊 **Profile Visitors**
+![Profile Views](https://komarev.com/ghpvc/?username=peexforge&label=Profile%20Views&color=blue&style=flat)
+
