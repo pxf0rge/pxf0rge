@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Alireza 👋</h1>
 
-<!--
-**peexforge/peexforge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Flutter Developer | 🔥 Backend & API Learner | 💻 Passionate about Clean Code & Open Source  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 **About Me**
+- 🎯 Flutter Developer & Backend Enthusiast  
+- 📚 Currently learning **Backend & APIs**  
+- 💡 Love **Clean Code, Open Source, and Scalable Architectures**  
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/alireza-hasanzadeh-496493350)  
+
+---
+
+### 🚀 **Tech Stack**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,php,javascript,cs,linux,git,github" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=peexforge&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=peexforge&theme=radical" height="150" />
+</p>
+
+---
+
+### 📫 **Get in Touch**
+📩 Email: pxforge@proton.me
+🔗 LinkedIn: [Alireza Hasanzadeh](https://www.linkedin.com/in/alireza-hasanzadeh-496493350)
