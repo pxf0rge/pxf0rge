@@ -27,6 +27,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=peexforge&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=peexforge&theme=radical" height="150" />
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=peexforge&color=blue&style=flat)  
+![GitHub followers](https://img.shields.io/github/followers/peexforge?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/peexforge?style=flat-square)
 
 ---
 
