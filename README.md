@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/ycCRs1v7/github-Photoroom-modified-1.png" alt="github-Photoroom-modified-1" border="0">
+<img src="https://i.ibb.co/ycCRs1v7/github-Photoroom-modified-1.png" alt="github-Photoroom-modified-1" border="0" style="width: 100%;">
 <h1 align="center">Hi there, I'm Alireza 👋</h1>
 
 <p align="center">
