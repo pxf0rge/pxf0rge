@@ -52,9 +52,9 @@
 
 <p align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=peexforge&color=blue&style=flat)
-  ![GitHub followers](https://img.shields.io/github/followers/peexforge?style=flat-square)
-  ![GitHub stars](https://img.shields.io/github/stars/peexforge?style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=pxf0rge&color=blue&style=flat)
+  ![GitHub followers](https://img.shields.io/github/followers/pxf0rge?style=flat-square)
+  ![GitHub stars](https://img.shields.io/github/stars/pxf0rge?style=flat-square)
   
 </p>
 
