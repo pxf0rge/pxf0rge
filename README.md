@@ -41,6 +41,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/pxf0rge)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:pxforge@proton.me)
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hesamzs&theme=radical&no-frame=false&no-bg=false&margin-w=10)
 
 ---
 
